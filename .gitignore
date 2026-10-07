@@ -1,0 +1,14 @@
+# Secretos (API keys)
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Imágenes temporales de captcha
+captcha_*.png
+
+# Planillas de trabajo
+*.xlsx
+*.xls

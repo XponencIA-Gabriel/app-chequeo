@@ -1,0 +1,13 @@
+pandas
+selenium
+webdriver-manager
+openpyxl
+google-generativeai
+pillow
+torch
+transformers
+requests
+python-dotenv
+numpy
+opencv-python
+ratelimiter
